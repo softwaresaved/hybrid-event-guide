@@ -1,38 +1,83 @@
-# Types of events
+# Classification of hybrid event styles
 
 ## Summary
 
-This document summarises the different types of hybrid events and maps them
+This document summarises the different types of hybrid events and maps them, with examples, onto a set of general characteristics. This will allow organisers to understand the options available to them and the characters of the events that particular combinations lead to, enabling them to choose an appropriate format for a specific planned event.
 
-Just for reference the [wikipedia article for hybrid events](https://en.wikipedia.org/wiki/Hybrid_event)
 
-## An event we would consider:
-- time limited,_not_ ongoing: yes training, no undergrad courses; _what about things like the Open Life Science programme_?
+## Scope & definitions
 
-> [name=Jez Cope] Would Open Life Science programme be a series of such events? So the individual events would be in scope?
-> [name=Emmy Tsang] but each individual event would benefit from loads of pre-existing relationships, exercises/assignments beforehand, and familiarity with format
-> [name=Jez Cope] :thumbsup: definitely a different type of thing
-> [name=Emmy Tsang] proposing to move to boundary section below... nope, forget this, does not have a physical component :laughing: 
-> 
+Event
+: Something which is bounded in time, with a clear start and end, between which participants are mainly focussing their attention on participating in that event.
 
-- each physical pod has to have more than 1 person to be considered a physical pod
+  - Examples: conferences, workshops, focused training
+  - Non-examples: undergrad courses, projects
+
+Hybrid Event
+: Something in which people can meaningfully participate and interact in either a face-to-face or remote setting, or a combination, during a single event. [Wikipedia definition](https://en.wikipedia.org/wiki/Hybrid_event)
+
+### Features of a hybrid event
+
+- Peer interaction:
+    - Broadcast/didactic i.e. a presenter to an audience
+    - Interactive smaller groups discussions
+- Synchronicity:
+    - Synchronous: everyone connects / engages at the same time
+    - Asynchronous: aspects run at different times, depending on participant availability, etc 
+- Facilitation & structure:
+    - Highly structured: schedule planned and fixed in advance by organisers
+    - Freeform: entire agenda and schedule determined during the event by participants
+- Objectives:
+    - Learning/knowledge exchange
+    - Getting to know people (networking)
+    - Co-creation (e.g. a hackathon)
+    - Community-building
+- Location / geographic distribution of audience
+    - Node/pod size mean and variance; connectivity between nodes
+    ![](https://i.imgur.com/iHC1v9Q.png)
+
+
+#### Other varables
+
+- Size: duration; number of participants
+- Tooling types
+- Types of interaction: video, voice, text, pictures/whiteboards, games
+
+
+### Types of hybrid events
+
+
+| Event Type | Objective | Interaction | Synchronicity | Geographic distribution | Examples |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Traditional event with online elements (e.g. live streaming, remote presenters, Twitter walls/interaction)     | Knowledge dissemination, Networking | Low :arrow_down_small:   | High :arrow_up_small:    | Low :arrow_down_small:   | [Biodiversity_next](https://biodiversitynext.org)|
+| Traditional event with recorded elements     | Knowledge dissemination | Low   :arrow_down_small:     | Low :arrow_down_small:       | High :arrow_up_small: | |
+| Multi-site, single topic training | Knowledge dissemination | High :arrow_up_small: | High :arrow_up_small: | High :arrow_up_small: | Gallantries, [Carpentries instructor training](https://carpentries.github.io/instructor-training/) |
+| Multi-site, multi-topic sprint | Community building, co-creation | High :arrow_up_small: | High :arrow_up_small: | High :arrow_up_small: | [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) |
+| Hybrid un-conference | Networking, community building | High :arrow_up_small: | High :arrow_up_small: | Low :arrow_down_small:   | [NL-RSE meetup](https://nl-rse.org/events/2020-03-13-meetup.html)|
+| Ask Me Anything | Knowledge dissemination | High :arrow_up_small: | Low :arrow_down_small: | High :arrow_up_small: | Reddit AMAs |
+| Drop in / Help Session / Office Hours | Problem solving | Low :arrow_down_small:| Low :arrow_down_small:| Low :arrow_down_small:| |
+| Webinar | Knowledge dissemination | Low :arrow_down_small:| High :arrow_up_small:| High :arrow_up_small: | [RDA Plenary 15](https://www.rd-alliance.org/plenaries/rda-15th-plenary-meeting-australia)|
+| "Community Notice Board" / Hacky Hours | Co-working/social accountability | High :arrow_up_small:| Low :arrow_down_small:| Low :arrow_down_small:| [Queensland Hacky Hour](https://www.qcif.edu.au/index.php/events/hacky-hour)|
+
+
 
 ## Examples of hybrid events
+* Events that require higher interaction:
+    *  Collaborations Workshop (medium/)
+    * [THE Port hackathon](https://theport.ch/): main hackathon is a 3 day in-person experience, but for 5-6 weeks before it teams meet online roughly once a week (medium/)
+    * Carpentries community discussions (small/)
+    * [NL-RSE meetup](https://docs.google.com/document/d/1SdZCzMeynDuyFfaERPNpDg14QEdYCO3zPyhBlcadJHc/edit#heading=h.843bj68sanxq) (small/)
+    * British Library reading group: multiple attendees split between two rooms on different sites via built-in video conferencing facilitiy (medium/)
+    * [Climate-KIC's Climathon](https://climathon.climate-kic.org/en/): Many cities around the world hosting climate-related hackathons (though not all around coding) all taking place within a few weeks and only loosely connected (large/)
+    * [The Pan-european Quantum Internet Hackathon](https://indico.cern.ch/event/851369/): took place in many distrubted “nodes” around Europe all in late-October 2019 (large/ )
+    * [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) (large/)
+* Events that require less interaction 
+    * [RDA Plenary 15](https://www.rd-alliance.org/plenaries/rda-15th-plenary-meeting-australia): moved from being an in-person event to being an online event where keynotes were streamed at the time where they originally planned, and group sessions took place online in an extended two week period, with varying timeslots to accomodate timezones, it also included remote poster session (large/)
+* Events that require key few leads
+    *  [Gallantries](https://galaxy-carpentries.github.io/gallantries/about) classes (up to 20) in multiple locations, helpers in the classes, instructors teaching remotely, using: Zoom, Google Docs, Gitter
+    *  [Carpentries instructor training](https://carpentries.github.io/instructor-training/). 
+    * Online Carpentry courses (e.g. Library Carpentry w/s series at BL)
 
-- [Gallantries](https://galaxy-carpentries.github.io/gallantries/about) classes (up to 20) in multiple locations, helpers in the classes, instructors teaching remotely, using: Zoom, Google Docs, Gitter
-- [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/)
-- Collaborations Workshop :grinning_face_with_star_eyes: 
-- THE Port hackathon: main hackathon is a 3 day in-person experience, but for 5-6 weeks before it teams meet online roughly once a week
-- RDA Plenary 15: moved from being an in-person event to being an online event where keynotes were streamed at the time where they originally planned, and group sessions took place online in an extended two week period, with varying timeslots to accomodate timezones, it also included remote poster session
-- Carpentries instructor training. Used to be few locations, with multiple people in each location and trainers teaching remotely. Have been changed into all learners joining separately.
-- Computing for High-energy physics (CHEP) 2019: week long conference almost entirely in-person but talks were recorded and posted online afterwards
-- [NL-RSE meetup](https://docs.google.com/document/d/1SdZCzMeynDuyFfaERPNpDg14QEdYCO3zPyhBlcadJHc/edit#heading=h.843bj68sanxq) usually happens in person, but have been moved to online, due to covid-19
-- The [Pan-european Quantum Internet Hackathon](https://labs.ripe.net/Members/ulka_athale_1/take-part-in-pan-european-quantum-internet-hackathon): took place in many distrubted "nodes" around Europe all in late-October 2019
-- [Climate-KIC's Climathon](https://climathon.climate-kic.org/en/): Many cities around the world hosting climate-related hackathons (though not all around coding) all taking place within a few weeks and only loosely connected
-- British Library reading group (in fact many BL internal meetings): multiple attendees split between two rooms on different sites
-- Recent online-only Carpentry courses (e.g. Library Carpentry w/s series at BL)
-
-- 
 
 
 ### Examples of things that are *definitely not* hybrid events
@@ -59,18 +104,3 @@ Just for reference the [wikipedia article for hybrid events](https://en.wikipedi
     - E.g. Twitch live-streaming
 - Traditional conferences which have remote presenters (example bidiversity_next)
 - an event attended with telepresence robot
-
-## Types of hybrid events
-
-- Possible axes
-    1. Peer interaction: "traditional" is mostly broadcast e.g. a presenter to an audience vs "unconference" is mostly talking to each other in smaller groups 
-    2. Synchronicity: does everyone connect / engage at the same time or are do aspects run at different times, depending on participant availability, etc 
-    3. Facilitated: the amount of coordination and control exerted by the organisers (or is this more a type of mechanism?)
-    4. Objectives: swapping information or knowledge, getting to know people (networking), or co-creation (e.g. a hackathon) (Is this similar to the first point?)
-    5. Length and audience size
-    6. Location / geographic distribution of audience
-    7. Tooling types
-    8. Pod size statistics: mean and variance
-        ![](https://i.imgur.com/iHC1v9Q.png)
-        
-    9. types of interaction: video, voice, text, pictures/whiteboards, games
