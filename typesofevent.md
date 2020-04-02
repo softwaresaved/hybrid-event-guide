@@ -34,7 +34,7 @@ Hybrid Event
     - Community-building
 - Location / geographic distribution of audience
     - Node/pod size mean and variance; connectivity between nodes
-    ![](https://i.imgur.com/iHC1v9Q.png)
+    ![](images/network-sketch.png)
 
 
 #### Other varables
