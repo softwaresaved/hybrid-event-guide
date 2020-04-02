@@ -6,12 +6,12 @@ Guide to how to use storymapping and the personas you've generated / picked from
 
 ## Platform
 
-We're on Miro: https://miro.com/app/board/o9J_kuKO2us=/
+We're on Miro: https://miro.com/app/board/o9J_kuKO2us=/ (view only unless you sign up and request access ): ) 
 
 ## Contributions very appreciated 🌈
 - Read a storyboarding guide here: https://plan.io/blog/user-story-mapping/
 - New to Miro? Read their user story mapping guide: https://miro.com/templates/user-story-map/
-- Imagine that you are participating/organising a conference (or, start from [our personas template](https://docs.google.com/presentation/d/1veZXxYutvHRtL_hv2lXOiH7AJorzZBs9ch3A0Qa4Xbc/edit?usp=sharing)!): Did we miss any objectives/tasks? Please feel free to add to the miro board (you will need to sign up for an account and request access to the board, unfortunately)
+- Imagine that you are participating/organising a conference (or, start from [our personas template](https://docs.google.com/presentation/d/1veZXxYutvHRtL_hv2lXOiH7AJorzZBs9ch3A0Qa4Xbc/edit?usp=sharing)!): Did we miss any objectives/tasks? Please feel free to add to the miro board (you will need to sign up for an account and request access to the board to edit it, unfortunately)
     - Please feel free to help us build more personas
 
 ## A record of how we started build the story map
