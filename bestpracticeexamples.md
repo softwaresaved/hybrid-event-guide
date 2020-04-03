@@ -81,4 +81,4 @@ Lack of suitable infrastructure can be a barrier to online participation for som
 ### Additional resources and guides
 
 - [Gallantries workshop handbook](https://galaxy-carpentries.github.io/gallantries/handbook)
-- [Remote Collaboration chpter in the Turing Way](https://deploy-preview-962--the-turing-way.netlify.com/remote_collaboration/)
+- [Remote Collaboration chapter in the Turing Way](https://deploy-preview-962--the-turing-way.netlify.com/remote_collaboration/)
