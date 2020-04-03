@@ -26,6 +26,10 @@ This project started at the Collaborations Workshop Hackday in April 2020.
 
 Please [open a GitHub issue](https://github.com/softwaresaved/hybrid-event-guide/issues) to suggest new content, contribute examples, or let us know about bugs.
 
+## Create a persona
+
+[Visit *Persona guide for remote and hybrid events*](https://malvikasharan.github.io/hybrid-event-guide/) to build persona for the participants of your events.
+
 ## Project roadmap :checkered_flag:
 For tasks to work on in the near future, please see open Issues. 
 
